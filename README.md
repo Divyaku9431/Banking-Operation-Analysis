@@ -47,7 +47,6 @@ Key Insights You Can Get:
 • How transaction types (Deposit, Withdrawal, Transfer) are performing ?
 
 6. Screenshots / Demos
-
-https://github.com/Divyaku9431/Banking-Operation-Analysis/blob/main/Branch%20Performance%20Screenshot.png
+(https://github.com/Divyaku9431/Banking-Operation-Analysis/blob/main/Branch%20Performance%20Screenshot.png)
 
    
