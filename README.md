@@ -1,6 +1,5 @@
 # Banking-Operation-Analysis
 1. Project Title / Headline
-2. 
 Banking Operations Dashboard using Power BI
 This project provides a comprehensive analysis of banking operations through a dynamic Power BI dashboard. It offers insights into customer demographics, transaction trends, account balances, and branch performance. The interactive visuals help stakeholders make informed decisions based on real-time banking metrics.
 
